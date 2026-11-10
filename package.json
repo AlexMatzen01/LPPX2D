@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "package": {
+    "identifier": "lppx2d",
+    "display_name": "LPPX2D",
+    "version": "1.0.0",
+    "author": "Alexander Matzen",
+    "description": "A short description of your package",
+    "license": "MIT",
+    "repository": "https://github.com/AlexMatzen01/LPPX2D",
+    "lppo_version": ">=5.0.0",
+    "dependencies": {},
+    "build": {
+      "system": "cargo",
+      "manifest": "Cargo.toml",
+      "features": [],
+      "release": true
+    }
+  }
+}
